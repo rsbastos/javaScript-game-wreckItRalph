@@ -1,2 +1,2 @@
 # javaScript-game-wreckItRalph
-A JavaScript game for Bootcamp Potência Tech Ifood - Game Develpment
+A JavaScript game for Bootcamp "DIO - Potência Tech iFood - Games Development".
